@@ -1,0 +1,35 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #4285;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    background-color: #e81414;
+    height: 30rem;
+    width: 50rem;
+    color: aqua;
+    margin: auto;
+}
+
+.box1{
+    display: flex;
+    background-color: #8f0ac0;
+    align-items: center;
+    height: 80%;
+    width: 45%;
+}
+.box2{
+    display: flex;
+    background-color: #0ed332;
+    align-items: center;
+    height: 80%;
+    width: 45%;
+}
