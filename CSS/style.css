@@ -1,13 +1,13 @@
-
-*{
+* {
     margin: 0;
     padding: 0;
 }
 
-header{
+header {
     background-color: #4285;
 }
-.box{
+
+.box {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -19,14 +19,15 @@ header{
     margin: auto;
 }
 
-.box1{
+.box1 {
     display: flex;
     background-color: #8f0ac0;
     align-items: center;
     height: 80%;
     width: 45%;
 }
-.box2{
+
+.box2 {
     display: flex;
     background-color: #0ed332;
     align-items: center;
@@ -34,7 +35,7 @@ header{
     width: 45%;
 }
 
-.container{
+.container {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -46,21 +47,23 @@ header{
     margin: auto;
 }
 
-.box1{
+.box1 {
     display: flex;
     background-color: #8f0ac0;
     align-items: center;
     height: 80%;
     width: 45%;
 }
-.container1{
+
+.container1 {
     display: flex;
     background-color: #c300ff;
     align-items: center;
     height: 80%;
     width: 45%;
 }
-.container2{
+
+.container2 {
     display: flex;
     background-color: #04d5ff;
     align-items: center;
