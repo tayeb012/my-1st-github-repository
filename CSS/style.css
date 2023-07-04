@@ -33,3 +33,37 @@ header{
     height: 80%;
     width: 45%;
 }
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    background-color: #c5e814;
+    height: 50rem;
+    width: 70rem;
+    color: rgb(2, 16, 214);
+    margin: auto;
+}
+
+.box1{
+    display: flex;
+    background-color: #8f0ac0;
+    align-items: center;
+    height: 80%;
+    width: 45%;
+}
+.container1{
+    display: flex;
+    background-color: #c300ff;
+    align-items: center;
+    height: 80%;
+    width: 45%;
+}
+.container2{
+    display: flex;
+    background-color: #04d5ff;
+    align-items: center;
+    height: 80%;
+    width: 45%;
+}
